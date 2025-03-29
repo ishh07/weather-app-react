@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/11c2bfbe-7b24-4481-94a0-387cffe3b73b)Weather App 🌦️
+Weather App 🌦️
 A sleek and intuitive weather app built using React, Vite, Tailwind CSS, and OpenWeather API to provide real-time weather updates and forecasts.
 
 🚀 Live Demo
